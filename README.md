@@ -8,4 +8,4 @@ Se necesita tener php y mysql instalado.
 
 -Ir al archivo config.php y en el constructor poner el nombre de la base de datos y los datos que sean necesarios, como el nombre de la base de datos nueva y la contraseña si se requiere.
 
--Ir a donde se encuentra el archivo index.php y ejecutar el programa desde la linea de comandos en algun puerto del localhost.
+-Desde la linea de comandos ir a donde se encuentra el archivo index.php y ejecutar el programa desde la linea de comandos en algun puerto del localhost.
