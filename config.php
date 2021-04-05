@@ -10,7 +10,7 @@ class PDOConfig extends PDO {
     public function __construct(){
         $this->engine = 'mysql';
         $this->host = '127.0.0.1';
-        $this->database = 'crudphp';
+        $this->database = '';
         $this->user = 'root';
         $this->password = '';
         $dsn = $this->engine.':dbname='.$this->database.';host='.$this->host;
